@@ -1,5 +1,7 @@
 package DataType;
 
+import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
+
 public class TestLongForInteger {
     public static void main(String[] args) {
         Integer s=new Integer(9);
@@ -39,7 +41,13 @@ public class TestLongForInteger {
         *Java跟C的区别，C中赋值后会与0进行比较，如果大于0，就认为是true；而Java不会与0比较，而是直接把赋值后的结果放入括号。
          */
         System.out.println(x=y);  //1
+        float f=42.0f;
+        long l=42;
+        System.out.println(f==l);
+        //float long 进行数制转换-》int
 
+        //算数执行顺序
+        System.out.println(10%2*1);  //% 和 * 优先级相同 从左向右执行
 
 
 

@@ -14,6 +14,7 @@ public class StartTest {
             }
         });
         t.start();
+
         t.join();
         System.out.print("1"); //2
     }
