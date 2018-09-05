@@ -7,7 +7,7 @@ import java.util.Vector;
 
 public class VectorTest {
     public static void main(String[] args) {
-        Vector vector=new Vector();
+        Vector vector = new Vector();
         /*
         Vector 是线程安全的
         在构造函数里边可以提供初始容量，容量增长指数，默认每一次调整都会增长一倍
@@ -16,7 +16,7 @@ public class VectorTest {
         vector.add(2);
         vector.add(3);
 
-        Enumeration enumeration=vector.elements();
+        Enumeration enumeration = vector.elements();
         System.out.println(enumeration.nextElement());
         System.out.println(enumeration.nextElement());
         /*
@@ -54,12 +54,12 @@ public class VectorTest {
                 return a;
             }
         * */
-        Integer [] Array = new Integer[3];
+        Integer[] Array = new Integer[3];
         vector.toArray(Array);
         System.out.println(Array[2]);
 
         //subList  继承了list的subList方法,相当于String的subString，截止到toIndex的前一位
-        List list=vector.subList(0,2);
+        List list = vector.subList(0, 2);
         System.out.println(list);
 
         //遍历方式
