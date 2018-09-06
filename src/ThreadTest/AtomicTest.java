@@ -15,7 +15,6 @@ public class AtomicTest implements Runnable {
     @Override
     public void run() {
            while (true){
-
            }
     }
     public void add(){
@@ -27,12 +26,13 @@ public class AtomicTest implements Runnable {
 
     public static void main(String[] args) {
         new Timer().schedule(new TimerTask() {
+
             @Override
             public void run() {
                 System.out.print("Aborting");
                 System.exit(0);
             }
-        },5000);
+        },5000); //Timer 相当于一个计时器，5000ms后程序结束
         ExecutorService executorService=Executors.newCachedThreadPool();
         AtomicTest atomicTest=new AtomicTest();
         executorService.execute(atomicTest);

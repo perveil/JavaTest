@@ -2,71 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c90cd8d5-5992-4244-b41b-93241a3fe741" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmTest/Aarryesc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmTest/NewStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmTest/SocreSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmTest/SortArrayForMinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmTest/StringAddCompareNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmTest/UglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmTest/submultipleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassTest/ClassLoadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassTest/ReflectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionTest/ComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionTest/HashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionTest/SortedSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionTest/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataType/BooleanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataType/ByteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataType/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataType/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataType/MathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataType/PatternTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataType/StringBufferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataType/TestLong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestModel/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadTest/AtomicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadTest/DaemonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadTest/Joining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadTest/SynchronizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadTest/ThreadException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadTest/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/keywordTest/CodeOrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/keywordTest/KeyWordCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/keywordTest/TryCatchFinallyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/keywordTest/WeakReferenceReferenceQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgorithmTest/BinaryNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/AlgorithmTest/Steptest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/AlgorithmTest/Steptest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/AlgorithmTest/TryCatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ClassTest/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/ClassTest/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ClassTest/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/ClassTest/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ClassTest/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/ClassTest/StaticTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/CollectionTest/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/CollectionTest/ListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/DataType/StringBuffTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/DataType/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/DataType/StringTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/DataType/TestLongForInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/DataType/TestLongForInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ThreadTest/StartTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/ThreadTest/StartTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ThreadTest/StartTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/ThreadTest/StartTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ThreadTest/ThreadLocalTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/ThreadTest/ThreadLocalTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ThreadTest/ThreadLocalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/ThreadTest/ThreadLocalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmTest/Steptest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmTest/Steptest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmTest/TryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/keywordTest/TryCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayTest/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayTest/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/InheritTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassTest/InheritTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/InnerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassTest/InnerClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/InterFaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassTest/InterFaceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassTest/StaticTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/StaticTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassTest/StaticTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/UpcastingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassTest/UpcastingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionTest/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionTest/ListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionTest/VectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionTest/VectorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType/StringBuffTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataType/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType/TestLongForInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataType/TestLongForInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadTest/StartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadTest/StartTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadTest/ThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadTest/ThreadLocalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreadTest/AtomicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadTest/AtomicTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,7 +15,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BinaryNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AlgorithmTest/BinaryNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,11 +72,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AlgorithmTest/TryCatch.java" />
         <option value="$PROJECT_DIR$/src/ThreadTest/ThreadLocalTest.java" />
         <option value="$PROJECT_DIR$/src/ArrayTest/ArrayTest.java" />
         <option value="$PROJECT_DIR$/src/CollectionTest/VectorTest.java" />
@@ -176,9 +126,10 @@
         <option value="$PROJECT_DIR$/src/ThreadTest/Joining.java" />
         <option value="$PROJECT_DIR$/src/ThreadTest/ThreadException.java" />
         <option value="$PROJECT_DIR$/src/ThreadTest/SynchronizedTest.java" />
-        <option value="$PROJECT_DIR$/src/ThreadTest/AtomicTest.java" />
         <option value="$PROJECT_DIR$/src/AlgorithmTest/SortArrayForMinNumber.java" />
         <option value="$PROJECT_DIR$/src/AlgorithmTest/NewStackTest.java" />
+        <option value="$PROJECT_DIR$/src/ThreadTest/AtomicTest.java" />
+        <option value="$PROJECT_DIR$/src/AlgorithmTest/BinaryNumber.java" />
       </list>
     </option>
   </component>
@@ -198,8 +149,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="141" />
-    <option name="y" value="67" />
+    <option name="x" value="252" />
+    <option name="y" value="51" />
     <option name="width" value="1510" />
     <option name="height" value="955" />
   </component>
@@ -211,8 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,20 +183,14 @@
             </path>
             <path>
               <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AlgorithmTest" type="462c0819:PsiDirectoryNode" />
-              <item name="NewStackTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,23 +215,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortArrayForMinNumber">
-    <configuration name="Aarryesc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgorithmTest.Aarryesc" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AlgorithmTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.BinaryNumber">
     <configuration name="AtomicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreadTest.AtomicTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ThreadTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="BinaryNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgorithmTest.BinaryNumber" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AlgorithmTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,19 +267,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Aarryesc" />
       <item itemvalue="Application.Joining" />
       <item itemvalue="Application.ThreadException" />
       <item itemvalue="Application.AtomicTest" />
       <item itemvalue="Application.SortArrayForMinNumber" />
+      <item itemvalue="Application.BinaryNumber" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortArrayForMinNumber" />
+        <item itemvalue="Application.BinaryNumber" />
         <item itemvalue="Application.AtomicTest" />
+        <item itemvalue="Application.SortArrayForMinNumber" />
         <item itemvalue="Application.ThreadException" />
         <item itemvalue="Application.Joining" />
-        <item itemvalue="Application.Aarryesc" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +330,9 @@
       <workItem from="1535861039834" duration="15184000" />
       <workItem from="1535896395926" duration="204000" />
       <workItem from="1536049012172" duration="4508000" />
-      <workItem from="1536128651743" duration="7116000" />
+      <workItem from="1536128651743" duration="7819000" />
+      <workItem from="1536151959295" duration="2586000" />
+      <workItem from="1536201133835" duration="6368000" />
     </task>
     <task id="LOCAL-00001" summary="第二天">
       <created>1533624485092</created>
@@ -402,11 +348,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534123199250</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="算法">
+      <created>1536135996592</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536135996592</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176285000" />
+    <option name="totallyTimeSpent" value="185942000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -418,10 +371,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="113" y="54" width="1208" height="764" extended-state="0" />
+    <frame x="403" y="60" width="1208" height="764" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.328594" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32385466" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.328594" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
@@ -429,13 +383,13 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32982087" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.8041074" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39020538" />
-      <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.75829387" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2922591" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.328594" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.328594" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31652173" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21130435" />
       <window_info anchor="right" id="Bean Validation" order="4" weight="0.32881773" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -443,7 +397,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3443918" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3437058" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -496,7 +450,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二天" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二天" />
+    <MESSAGE value="算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -520,27 +475,10 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="32" />
+      <option name="time" value="33" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CollectionTest/HashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClassTest/InheritTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClassTest/InnerClassTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ClassTest/InterFaceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -568,13 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataType/MathTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -729,20 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThreadTest/ThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThreadTest/SynchronizedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ThreadTest/ThreadException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -761,13 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="39" column="72" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThreadTest/AtomicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -810,26 +720,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="method#toResultForProblem#0;class#Aarryesc#0" />
-            <element signature="method#toResultForSecondProblem#0;class#Aarryesc#0" />
-            <element signature="method#findMax#0;class#Aarryesc#0" />
-            <element signature="method#toResultForThirdProblem#0;class#Aarryesc#0" />
-            <element signature="method#changeArrayPosition#0;class#Aarryesc#0" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AlgorithmTest/NewStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="190">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataType/MathTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadTest/SynchronizedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadTest/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadTest/AtomicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="1251" selection-start-line="1251" selection-end-line="1251" />
           <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#49082#49083#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="308" column="26" selection-start-line="308" selection-start-column="26" selection-end-line="308" selection-end-column="26" />
+          <folding>
+            <element signature="e#10902#10903#0" expanded="true" />
+            <element signature="e#10948#10949#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AlgorithmTest/BinaryNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
         </state>
       </provider>
     </entry>
