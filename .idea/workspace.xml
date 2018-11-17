@@ -1,90 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/PositionalCel.java" line="17" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c90cd8d5-5992-4244-b41b-93241a3fe741" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__gov_nist_math_jama_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_paho_org_eclipse_paho_client_mqttv3_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/IpTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/MatrixTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/Nsum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/ScaleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IO/MarkedJs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mqtt/MqttTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/desginModel/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/desginModel/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MarkedJSTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/Aarryesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/BinaryNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/CreateZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/FindMostDataOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/LongestPerfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/MaxLengthOfSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/MergeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/MostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/NewStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/NumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/NumberSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/PakageMaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/PositionalCel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/RotateStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/SocreSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/SortArrayForMinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/Steptest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/StringAddCompareNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/TwoNumAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/UglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/submultipleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DymanicAnnotation/AnnotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DymanicAnnotation/DyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GenericTest/Favorites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GenericTest/FindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GenericTest/SuppressWaringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumt/EnumMapT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumt/EnumSetT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumt/Opreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumt/enumT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/keywordTest/inherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/AlgorithmTest/Steptest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ArrayTest/ArrayTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ClassTest/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ClassTest/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ClassTest/StaticTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/CollectionTest/ListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/DataType/StringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/DataType/TestLongForInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ThreadTest/StartTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ThreadTest/StartTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ThreadTest/ThreadLocalTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/ThreadTest/ThreadLocalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmTest/Aarryesc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmTest/BinaryNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmTest/NewStackTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmTest/SocreSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmTest/SortArrayForMinNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmTest/Steptest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmTest/StringAddCompareNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmTest/UglyNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmTest/submultipleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayTest/ArrayTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/ClassLoadTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/InheritTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/InnerClassTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/InterFaceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/ReflectTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/StaticTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/StaticTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassTest/UpcastingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionTest/ComparatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionTest/HashMapTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionTest/ListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionTest/SortedSetTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionTest/StackTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionTest/VectorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType/BooleanTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType/ByteTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType/DateTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType/EnumTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType/MathTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType/PatternTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType/StringBufferTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType/StringTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType/TestLong.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataType/TestLongForInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestModel/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadTest/AtomicTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadTest/DaemonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadTest/Joining.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadTest/StartTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadTest/SynchronizedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadTest/ThreadException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadTest/ThreadLocalTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadTest/ThreadTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/keywordTest/CodeOrderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/keywordTest/KeyWordCollection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/keywordTest/TryCatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/keywordTest/TryCatchFinallyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/keywordTest/WeakReferenceReferenceQueueTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -111,16 +66,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ScaleTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/ScaleTest.java">
+      <file leaf-file-name="AnnotationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DymanicAnnotation/AnnotationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="8" column="96" selection-start-line="8" selection-start-column="96" selection-end-line="8" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DyAnnotation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DymanicAnnotation/DyAnnotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -130,15 +89,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>equals</find>
-      <find>toBinaryStrin</find>
-      <find>StringBu</find>
       <find>initialValue</find>
       <find>ToArray</find>
       <find>cursor</find>
@@ -165,6 +122,10 @@
       <find>firstEntry</find>
       <find>Set</find>
       <find>entrySet</find>
+      <find>equals</find>
+      <find>toString()</find>
+      <find>Throwable</find>
+      <find>getCause</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Administrator\IdeaProjects\JavaTest</dir>
@@ -179,28 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DataType/StringTest.java" />
-        <option value="$PROJECT_DIR$/src/DataType/MathTest.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/ClassTest/ClassLoadTest.java" />
-        <option value="$PROJECT_DIR$/src/ClassTest/StaticTest2.java" />
-        <option value="$PROJECT_DIR$/src/ClassTest/StaticTest.java" />
-        <option value="$PROJECT_DIR$/src/DataType/ByteTest.java" />
-        <option value="$PROJECT_DIR$/src/DataType/EnumTest.java" />
-        <option value="$PROJECT_DIR$/src/AlgorithmTest/SocreSort.java" />
-        <option value="$PROJECT_DIR$/src/AlgorithmTest/submultipleTest.java" />
-        <option value="$PROJECT_DIR$/src/ClassTest/InterFaceTest.java" />
-        <option value="$PROJECT_DIR$/src/CollectionTest/SortedSet.java" />
-        <option value="$PROJECT_DIR$/src/CollectionTest/SortedSetTest.java" />
-        <option value="$PROJECT_DIR$/src/keywordTest/WeakReferenceReferenceQueueTest.java" />
-        <option value="$PROJECT_DIR$/src/CollectionTest/HashMapTest.java" />
-        <option value="$PROJECT_DIR$/src/AlgorithmTest/UglyNumber.java" />
-        <option value="$PROJECT_DIR$/src/AlgorithmTest/StringAddCompareNumber.java" />
-        <option value="$PROJECT_DIR$/src/ThreadTest/StartTest.java" />
-        <option value="$PROJECT_DIR$/src/ThreadTest/DaemonTest.java" />
-        <option value="$PROJECT_DIR$/src/ThreadTest/ThreadTest.java" />
-        <option value="$PROJECT_DIR$/src/AlgorithmTest/Aarryesc.java" />
-        <option value="$PROJECT_DIR$/src/ThreadTest/Joining.java" />
         <option value="$PROJECT_DIR$/src/ThreadTest/ThreadException.java" />
         <option value="$PROJECT_DIR$/src/ThreadTest/SynchronizedTest.java" />
         <option value="$PROJECT_DIR$/src/AlgorithmTest/SortArrayForMinNumber.java" />
@@ -230,6 +169,28 @@
         <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/Nsum.java" />
         <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/IpTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/ScaleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/PositionalCel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/keywordTest/inherTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GenericTest/SuppressWaringsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/TwoNumAdd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/Aarryesc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/LongestPerfix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GenericTest/FindTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GenericTest/Favorites.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/CreateZ.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/MergeArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/keywordTest/TryCatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/NumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/RotateStr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/MostWater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enumt/enumT.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enumt/Opreation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enumt/EnumSetT.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enumt/EnumMapT.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DymanicAnnotation/DyAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DymanicAnnotation/AnnotationTest.java" />
       </list>
     </option>
   </component>
@@ -256,10 +217,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="345" />
-    <option name="y" value="7" />
-    <option name="width" value="1605" />
-    <option name="height" value="1038" />
+    <option name="x" value="157" />
+    <option name="y" value="55" />
+    <option name="width" value="1710" />
+    <option name="height" value="895" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -270,6 +231,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,14 +264,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AlgorithmTest" type="462c0819:PsiDirectoryNode" />
+              <item name="DymanicAnnotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -333,9 +300,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ScaleTest">
-    <configuration name="IpTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgorithmTest.IpTest" />
+  <component name="RunManager" selected="Application.AnnotationTest">
+    <configuration name="AnnotationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DymanicAnnotation.AnnotationTest" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DymanicAnnotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RotateStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgorithmTest.RotateStr" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -344,8 +321,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Nsum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgorithmTest.Nsum" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgorithmTest.Solution" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -354,8 +331,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ScaleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgorithmTest.ScaleTest" />
+    <configuration name="UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgorithmTest.UglyNumber" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -364,54 +341,30 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MarkedJSTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="enumT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumt.enumT" />
       <module name="JavaTest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MarkedJSTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="MarkedJSTest.getFileName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaTest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MarkedJSTest" />
-      <option name="METHOD_NAME" value="getFileName" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MarkedJSTest" />
-      <item itemvalue="JUnit.MarkedJSTest.getFileName" />
-      <item itemvalue="Application.Nsum" />
-      <item itemvalue="Application.IpTest" />
-      <item itemvalue="Application.ScaleTest" />
+      <item itemvalue="Application.RotateStr" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.UglyNumber" />
+      <item itemvalue="Application.enumT" />
+      <item itemvalue="Application.AnnotationTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScaleTest" />
-        <item itemvalue="Application.IpTest" />
-        <item itemvalue="Application.Nsum" />
-        <item itemvalue="JUnit.MarkedJSTest.getFileName" />
-        <item itemvalue="JUnit.MarkedJSTest" />
+        <item itemvalue="Application.AnnotationTest" />
+        <item itemvalue="Application.enumT" />
+        <item itemvalue="Application.UglyNumber" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.RotateStr" />
       </list>
     </recent_temporary>
   </component>
@@ -486,7 +439,28 @@
       <workItem from="1538289232490" duration="1129000" />
       <workItem from="1538885813672" duration="10347000" />
       <workItem from="1538917658479" duration="3436000" />
-      <workItem from="1538992670245" duration="7133000" />
+      <workItem from="1538992670245" duration="7621000" />
+      <workItem from="1539057006826" duration="6480000" />
+      <workItem from="1539238380505" duration="1294000" />
+      <workItem from="1539258276087" duration="1565000" />
+      <workItem from="1539430363847" duration="1242000" />
+      <workItem from="1539516469036" duration="942000" />
+      <workItem from="1539579216765" duration="77000" />
+      <workItem from="1539579356083" duration="753000" />
+      <workItem from="1539596158642" duration="597000" />
+      <workItem from="1539830757477" duration="1852000" />
+      <workItem from="1539840545297" duration="2266000" />
+      <workItem from="1539869183249" duration="647000" />
+      <workItem from="1539876834272" duration="36000" />
+      <workItem from="1541488317758" duration="6516000" />
+      <workItem from="1542091606241" duration="13860000" />
+      <workItem from="1542164140154" duration="9268000" />
+      <workItem from="1542183064046" duration="7933000" />
+      <workItem from="1542249598448" duration="1196000" />
+      <workItem from="1542269726366" duration="11623000" />
+      <workItem from="1542344619801" duration="6494000" />
+      <workItem from="1542369836345" duration="1804000" />
+      <workItem from="1542428080727" duration="7476000" />
     </task>
     <task id="LOCAL-00001" summary="第二天">
       <created>1533624485092</created>
@@ -523,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536208104905</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="leetcode FirstDay">
+      <created>1539001793367</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539001793367</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -559,7 +540,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241226000" />
+    <option name="totallyTimeSpent" value="325635000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -571,12 +552,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="276" y="6" width="1284" height="830" extended-state="0" />
+    <frame x="126" y="44" width="1368" height="716" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32385466" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.328" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.23903818" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32618025" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -584,26 +565,27 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32982087" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3665087" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36337626" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.328594" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42735043" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2503536" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23409462" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2740458" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3847242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4068376" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.328594" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952926" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Bean Validation" order="4" weight="0.32881773" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32952926" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24942617" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3281471" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -653,7 +635,8 @@
     <MESSAGE value="算法" />
     <MESSAGE value="二进制数的使用及位运算符" />
     <MESSAGE value="多线程原子类" />
-    <option name="LAST_COMMIT_MESSAGE" value="多线程原子类" />
+    <MESSAGE value="leetcode FirstDay" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode FirstDay" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -665,247 +648,33 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/AlgorithmTest/UglyNumber.java</url>
-          <line>53</line>
-          <properties />
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/AlgorithmTest/BinarySearch.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AlgorithmTest/CreateZ.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AlgorithmTest/MergeArray.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="48" />
+      <option name="time" value="114" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="aimChars.length" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/keywordTest/TryCatchFinallyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/keywordTest/TryCatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadTest/Joining.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/StringAddCompareNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="1430" column="27" selection-start-line="1430" selection-start-column="27" selection-end-line="1430" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/NewStackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DataType/MathTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadTest/SynchronizedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadTest/ThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadTest/AtomicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="1251" selection-start-line="1251" selection-end-line="1251" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="308" column="26" selection-start-line="308" selection-start-column="26" selection-end-line="308" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadTest/ThreadLocalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Documents/Tencent Files/986778566/FileRecv/TFBase.jar!/com/TonFun/Base/util/SessionFilter.class" />
-    <entry file="jar://$USER_HOME$/Documents/Tencent Files/986778566/FileRecv/TFBase.jar!/com/TonFun/Base/util/Tools.class" />
-    <entry file="jar://$USER_HOME$/Documents/Tencent Files/986778566/FileRecv/TFBase.jar!/com/TonFun/Base/util/aop/AopUtils.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/BinaryNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/UglyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding>
-            <element signature="method#findIndexOfUglyNumber#0;class#UglyNumber#0" />
-            <element signature="method#isUgly#0;class#UglyNumber#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/SortArrayForMinNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/javax/xml/bind/JAXB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/java/xml/user.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xmlTest/JABXUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xmlTest/JABXTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/WxPayAPI_JAVA/java_sdk_v3.0.9/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-399" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/submultipleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/SocreSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadTest/StartTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="40" column="56" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClassTest/InterFaceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadTest/ThreadException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CollectionTest/StackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/Steptest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/desginModel/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Mqtt/MqttTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/desginModel/Adapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -927,20 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IO/MarkedJs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="6" column="109" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MarkedJSTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="950">
@@ -952,13 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/Aarryesc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -983,27 +731,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/NumberSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
-          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="463" selection-start-line="463" selection-end-line="463" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/Nsum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
           <caret line="64" column="66" selection-start-line="64" selection-start-column="66" selection-end-line="64" selection-end-column="66" />
-          <folding>
-            <element signature="method#TSum#0;class#Nsum#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1011,23 +742,322 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#167#175#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/ScaleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state relative-caret-position="-266">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/PositionalCel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClassTest/ClassLoadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IO/MarkedJs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="109" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/keywordTest/father.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-121" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1063">
+          <caret line="147" column="39" lean-forward="true" selection-start-line="147" selection-start-column="39" selection-end-line="147" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="511" column="6" lean-forward="true" selection-start-line="511" selection-start-column="6" selection-end-line="511" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/keywordTest/son.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/keywordTest/inherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-721">
+          <caret line="107" column="73" lean-forward="true" selection-start-line="107" selection-start-column="73" selection-end-line="107" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GenericTest/SuppressWaringsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/TwoNumAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-817">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/NumberSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/LongestPerfix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="4419" column="36" selection-start-line="4419" selection-start-column="36" selection-end-line="4419" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/CreateZ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="46" column="15" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/MergeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GenericTest/Favorites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GenericTest/FindTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="414" column="44" lean-forward="true" selection-start-line="414" selection-start-column="44" selection-end-line="414" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="101" column="13" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/keywordTest/TryCatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/Aarryesc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/NumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="201" column="25" lean-forward="true" selection-start-line="201" selection-start-column="25" selection-end-line="201" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/RotateStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="81" selection-start-line="81" selection-end-line="81" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/UglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="75" column="5" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="75" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/MostWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayTest/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumt/Opreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumt/enumT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumt/EnumSetT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MarkedJSTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumt/EnumMapT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#309#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="620" column="36" selection-start-line="620" selection-start-column="36" selection-end-line="620" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DymanicAnnotation/AnnotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="96" selection-start-line="8" selection-start-column="96" selection-end-line="8" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DymanicAnnotation/DyAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>
