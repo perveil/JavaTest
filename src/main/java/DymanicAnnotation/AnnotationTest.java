@@ -9,6 +9,7 @@ public class AnnotationTest {
                    System.out.println(m.getAnnotation(DyAnnotation.UserAU.class).AuPre().length);
                }
          }
+
     }
     /*
     *设想：自定义注解，aop搭配，redis  实现权限管理

@@ -13,19 +13,14 @@ import java.util.*;
 *
 *
 * */
-interface Nsuminter{
-    void TSum(int [] Arr,int target);
-    void ThSum(int [] Arr,int target);
-    void FSum(int [] Arr,int target);
-}
 public class Nsum {
 
 
     public static void main(String[] args) {
-        int Arr[]={1,0,5,3,3,2,2,2,4,9};
+        int Arr[]={-1,0,1,2,-1,-4};
         //1.2,2,3,3,4,5
 //        TSum(Arr,5,0,Arr.length-1);
-      ThSum(Arr,5);
+      ThSum(Arr,0);
     }
     //2 Sum
 
@@ -73,7 +68,6 @@ public class Nsum {
                   }
               }
          }
-         System.out.println(result);
          return result;
     }
 
