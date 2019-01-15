@@ -9,13 +9,13 @@ public class PrintlnABC {
             synchronized (lock) {
                 while (flag != 1) {
                     try {
-                        lock.wait();
+                        lock.wait(); //释放锁，当前拥有该锁的线程进入等待状态，需要被唤醒，所以在执行打印之前要调用notify方法
                     } catch (InterruptedException e) {
                         // TODO: handle exception
                     }
                 }
                 flag = 2;
-                lock.notifyAll();
+                lock.notifyAll();  // 唤醒所有在等待该锁的线程
                 System.out.print(Thread.currentThread().getName());
             }
         }

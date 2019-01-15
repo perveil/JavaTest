@@ -20,6 +20,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Maven: org.elasticsearch.client:transport:6.3.0" level="project" />
     <orderEntry type="library" name="Maven: gov.nist.math:jama:1.0.3" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />

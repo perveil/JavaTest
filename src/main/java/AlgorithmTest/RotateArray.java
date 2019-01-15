@@ -24,9 +24,6 @@ public class RotateArray {
         int array[]={3,4,5,1,2};
         int array1[]={1,2,0,1,1,1};
         int array2[]={1,2,3,4,5};
-        System.out.println(rotateArray(array));
-        System.out.println(rotateArray(array2));
-        System.out.println(rotateArray(array1));
 
     }
     public static int rotateArray(int [] array){

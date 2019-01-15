@@ -25,6 +25,10 @@ package AlgorithmTest;
 * */
 public class Aarryesc {
     public static void main(String[] args) {
+        System.out.println(
+                Integer.valueOf("00").intValue()
+        );
+
         int Array []={1,4,3,7,11,15};
         int sum =15;
         toResultForProblem(Array,15);
