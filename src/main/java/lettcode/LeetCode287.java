@@ -1,4 +1,4 @@
-package AlgorithmTest;
+package lettcode;
 
 import java.util.Arrays;
 

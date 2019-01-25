@@ -3,7 +3,8 @@ package lettcode;
 import java.util.Arrays;
 
 /*
-* 出错
+*    第一次出错
+*
 * */
 
 public class lettcode31 {
