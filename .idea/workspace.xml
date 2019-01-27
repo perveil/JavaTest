@@ -9,40 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c90cd8d5-5992-4244-b41b-93241a3fe741" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/MaxSumVnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructrue/tree/stack/leetcode503.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode328.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode725.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode82.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode978.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode134.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode228.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode347.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode496.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode556.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode71.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode845.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode916.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode92.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode930.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/tree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/tree/leetcode105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/tree/leetcode106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/tree/leetcode108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/SimpleQuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/ThreeQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/tree/seqtree/SeqTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmTest/LeetCode287.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lettcode/LeetCode287.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmTest/LeetCode41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lettcode/LeetCode41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmTest/leetcode28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmTest/leetcode42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lettcode/leetcode42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/lettcode31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lettcode/lettcode31.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -68,7 +36,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,8 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode91.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lucene/CreateIndex.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode673.java" />
         <option value="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode300.java" />
@@ -176,6 +142,8 @@
         <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode134.java" />
         <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode228.java" />
         <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode71.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lettcode/tree/seqtree/SeqTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lettcode/tree/seqtree/SeqTree.java" />
       </list>
     </option>
   </component>
@@ -202,10 +170,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="486" />
-    <option name="y" value="47" />
-    <option name="width" value="1390" />
-    <option name="height" value="835" />
+    <option name="x" value="222" />
+    <option name="y" value="145" />
+    <option name="width" value="1379" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -215,8 +183,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -229,27 +197,6 @@
               <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lettcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,7 +226,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.leetcode71">
+  <component name="RunManager" selected="Application.SeqTree">
+    <configuration name="SeqTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lettcode.tree.seqtree.SeqTree" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lettcode.tree.seqtree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="leetcode134" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lettcode.leetcode134" />
       <module name="JavaTest" />
@@ -320,30 +277,20 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="leetcode978" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lettcode.dp.leetcode978" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lettcode.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <list>
-      <item itemvalue="Application.leetcode978" />
       <item itemvalue="Application.leetcode215" />
       <item itemvalue="Application.leetcode134" />
       <item itemvalue="Application.leetcode228" />
       <item itemvalue="Application.leetcode71" />
+      <item itemvalue="Application.SeqTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SeqTree" />
         <item itemvalue="Application.leetcode71" />
         <item itemvalue="Application.leetcode228" />
         <item itemvalue="Application.leetcode134" />
         <item itemvalue="Application.leetcode215" />
-        <item itemvalue="Application.leetcode978" />
       </list>
     </recent_temporary>
   </component>
@@ -479,6 +426,9 @@
       <workItem from="1548159672369" duration="7674000" />
       <workItem from="1548311109692" duration="3778000" />
       <workItem from="1548315363741" duration="8929000" />
+      <workItem from="1548426486450" duration="2217000" />
+      <workItem from="1548514904728" duration="677000" />
+      <workItem from="1548591708918" duration="6732000" />
     </task>
     <task id="LOCAL-00001" summary="第二天">
       <created>1533624485092</created>
@@ -550,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547539300674</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="寒假5天">
+      <created>1548426624117</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1548426624117</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -586,7 +543,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="531989000" />
+    <option name="totallyTimeSpent" value="541615000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -598,7 +555,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="381" y="55" width="1112" height="668" extended-state="0" />
+    <frame x="178" y="116" width="1103" height="699" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.23903818" />
@@ -609,23 +566,23 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32982087" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.03076923" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41442716" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.48767605" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46126762" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2503536" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29506642" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25933015" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956523" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.38361266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.47858474" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4947183" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.328594" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.38361266" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Bean Validation" order="4" weight="0.32881773" />
@@ -635,9 +592,10 @@
     <layout-to-restore>
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40968344" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.328594" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40968344" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3273906" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -650,20 +608,19 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3538175" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24932976" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29886147" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.03076923" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.32982087" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29886147" />
       <window_info anchor="right" id="Database" order="6" weight="0.32956523" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.23903818" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3273906" />
-      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32881773" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34078214" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32881773" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -717,7 +674,8 @@
     <MESSAGE value="leetcode SecondDay" />
     <MESSAGE value="Thread 1" />
     <MESSAGE value="leetcode --61" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode --61" />
+    <MESSAGE value="寒假5天" />
+    <option name="LAST_COMMIT_MESSAGE" value="寒假5天" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -837,31 +795,18 @@
           <option name="timeStamp" value="384" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="386" />
+      <option name="time" value="406" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="aimChars.length" language="JAVA" />
         <watch expression="length[6]" />
         <watch expression="result.next" language="JAVA" />
+        <watch expression="seqTreeNodes[8]" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructrue/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode104.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode954.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1076,9 +1021,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1127,20 +1069,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/tree.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode347.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1214,9 +1147,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadTest/PrintlnABC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-883">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/tree/seqtree/SeqTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="25" column="52" lean-forward="true" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
           <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
           </folding>
         </state>
       </provider>
