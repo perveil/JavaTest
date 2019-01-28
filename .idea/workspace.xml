@@ -9,8 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c90cd8d5-5992-4244-b41b-93241a3fe741" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lettcode/tree/seqtree/SeqTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,7 +36,20 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="133">
+                <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,7 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode673.java" />
         <option value="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode300.java" />
         <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode415.java" />
@@ -144,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode71.java" />
         <option value="$PROJECT_DIR$/src/main/java/lettcode/tree/seqtree/SeqTreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/lettcode/tree/seqtree/SeqTree.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -169,11 +182,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="222" />
-    <option name="y" value="145" />
-    <option name="width" value="1379" />
-    <option name="height" value="874" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="536" />
+    <option name="y" value="341" />
+    <option name="width" value="1104" />
+    <option name="height" value="700" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -183,9 +196,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,6 +210,19 @@
               <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -428,7 +454,8 @@
       <workItem from="1548315363741" duration="8929000" />
       <workItem from="1548426486450" duration="2217000" />
       <workItem from="1548514904728" duration="677000" />
-      <workItem from="1548591708918" duration="6732000" />
+      <workItem from="1548591708918" duration="6772000" />
+      <workItem from="1548665637439" duration="353000" />
     </task>
     <task id="LOCAL-00001" summary="第二天">
       <created>1533624485092</created>
@@ -507,7 +534,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548426624117</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="线段树">
+      <created>1548598731804</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1548598731804</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -543,7 +577,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="541615000" />
+    <option name="totallyTimeSpent" value="542008000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,23 +589,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="178" y="116" width="1103" height="699" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.23903818" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3538175" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32982087" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.48767605" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.48604652" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.46126762" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2503536" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25933015" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14678285" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -584,6 +618,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.38361266" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3538175" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Bean Validation" order="4" weight="0.32881773" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24932976" />
@@ -592,10 +627,9 @@
     <layout-to-restore>
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40968344" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.328594" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3273906" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40968344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -608,19 +642,20 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3538175" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24932976" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29886147" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.03076923" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.32982087" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29886147" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Database" order="6" weight="0.32956523" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.23903818" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34078214" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3273906" />
       <window_info anchor="right" id="Bean Validation" order="9" weight="0.32881773" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34078214" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -675,7 +710,8 @@
     <MESSAGE value="Thread 1" />
     <MESSAGE value="leetcode --61" />
     <MESSAGE value="寒假5天" />
-    <option name="LAST_COMMIT_MESSAGE" value="寒假5天" />
+    <MESSAGE value="线段树" />
+    <option name="LAST_COMMIT_MESSAGE" value="线段树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -807,13 +843,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode954.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/lettcode27.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -1161,10 +1190,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-114">
           <caret line="25" column="52" lean-forward="true" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-          <folding>
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
