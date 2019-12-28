@@ -1,7 +1,5 @@
 package serializeTes;
 
-import com.sun.javafx.util.TempState;
-
 import java.io.*;
 
 public class Tes1 implements Serializable {

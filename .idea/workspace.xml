@@ -3,19 +3,75 @@
   <component name="AnalysisUIOptions">
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/PositionalCel.java" line="17" />
-    <bookmark url="file://D:/lucene/l4lucene/src/main/java/com/test/demo/Search.java" description="        Term term = new Term(&quot;title&quot;,&quot;Mix~&quot;);&#10;    ..." line="84" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="c90cd8d5-5992-4244-b41b-93241a3fe741" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode824.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmTest/Steptest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlgorithmTest/Steptest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/LeetCode287.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/LeetCode287.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/LeetCode41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/LeetCode41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/LinkedList/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode328.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/LinkedList/leetcode328.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/LinkedList/leetcode61.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode725.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/LinkedList/leetcode725.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/LinkedList/leetcode82.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/LinkedList/leetcode86.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/dp/MaxLengthOfSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/MaxLengthOfSubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode152.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode279.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode279.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode300.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode673.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode673.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode746.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode746.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode91.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode91.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode978.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode978.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode134.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode134.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode151.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode151.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode215.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode215.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode228.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode228.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode347.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode347.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode362.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode362.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode392.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode392.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode415.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode415.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode496.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode496.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode556.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode556.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode567.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode567.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode71.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode767.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode767.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode792.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode792.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode845.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode845.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode916.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode916.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode92.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode92.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode930.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode930.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/leetcode954.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode954.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/lettCode68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/lettCode68.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/lettCode907.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/lettCode907.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/lettcode139.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/lettcode139.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/lettcode27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/lettcode27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/lettcode31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/lettcode31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/lettcode46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/lettcode46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/lettcode47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/lettcode47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/lettcode63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/lettcode63.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/lettcode97.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/lettcode97.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/tree/leetcode105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/leetcode105.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/tree/leetcode106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/leetcode106.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/tree/leetcode108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/leetcode108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lettcode/tree/seqtree/SeqTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/seqtree/SeqTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/serializeTes/Tes1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/serializeTes/Tes1.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,22 +90,6 @@
     </option>
     <expand />
     <select />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="133">
-                <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,222 +143,204 @@
       <GitPushTagMode />
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode673.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode300.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode415.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode767.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode151.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode567.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode279.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataStructrue/tree/Btree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode746.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataStructrue/tree/CreateTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode104.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataStructrue/tree/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode954.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/lettcode27.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode32.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode34.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode35.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/lettcode31.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode556.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode496.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataStructrue/tree/stack/leetcode503.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode152.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode916.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode31.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode82.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode92.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode82.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode61.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode725.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode725.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode328.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AlgorithmTest/MaxSumVnum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode845.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode930.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sort/SimpleQuickSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sort/ThreeQuickSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode86.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode978.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode215.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode347.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/tree/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/tree/leetcode105.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/tree/leetcode106.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/tree/leetcode108.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode134.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode228.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/leetcode71.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/tree/seqtree/SeqTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lettcode/tree/seqtree/SeqTree.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="536" />
-    <option name="y" value="341" />
-    <option name="width" value="1104" />
-    <option name="height" value="700" />
-  </component>
+  <component name="ProjectId" id="1VPpWCkzX0othSjOkDyrKQOQ7X0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Administrator/IdeaProjects/JavaTest/src/main/java/lettcode/leetcode104.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/apache-apollo-1.7.1-windows-distro/apache-apollo-1.7.1/examples/mqtt/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.19043693" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.SeqTree">
-    <configuration name="SeqTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lettcode.tree.seqtree.SeqTree" />
+  <component name="RunManager" selected="Application.leetcode824">
+    <configuration name="leetcode824" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode824" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lettcode.tree.seqtree.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="leetcode134" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lettcode.leetcode134" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lettcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Tomcat 7.0.99" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.99" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_99_JavaTest" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53586" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="leetcode215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lettcode.leetcode215" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lettcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.99" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_JavaTest" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53586" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="leetcode228" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lettcode.leetcode228" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lettcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="leetcode71" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lettcode.leetcode71" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lettcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <list>
-      <item itemvalue="Application.leetcode215" />
-      <item itemvalue="Application.leetcode134" />
-      <item itemvalue="Application.leetcode228" />
-      <item itemvalue="Application.leetcode71" />
-      <item itemvalue="Application.SeqTree" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SeqTree" />
-        <item itemvalue="Application.leetcode71" />
-        <item itemvalue="Application.leetcode228" />
-        <item itemvalue="Application.leetcode134" />
-        <item itemvalue="Application.leetcode215" />
+        <item itemvalue="Application.leetcode824" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -456,6 +478,13 @@
       <workItem from="1548514904728" duration="677000" />
       <workItem from="1548591708918" duration="6772000" />
       <workItem from="1548665637439" duration="353000" />
+      <workItem from="1577164619101" duration="623000" />
+      <workItem from="1577165565212" duration="170000" />
+      <workItem from="1577168760099" duration="188000" />
+      <workItem from="1577271881802" duration="880000" />
+      <workItem from="1577274134450" duration="3633000" />
+      <workItem from="1577507309398" duration="150000" />
+      <workItem from="1577518747702" duration="5421000" />
     </task>
     <task id="LOCAL-00001" summary="第二天">
       <created>1533624485092</created>
@@ -576,9 +605,6 @@
       <configuration name="MarkedJSTest.getFileName" configurationId="JUnit" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="542008000" />
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -587,76 +613,6 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.23903818" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32982087" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.48604652" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46126762" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2503536" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14678285" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32956523" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4947183" />
-      <window_info anchor="bottom" id="Spring" order="8" weight="0.328594" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.38361266" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3538175" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Bean Validation" order="4" weight="0.32881773" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24932976" />
-      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3279483" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Spring" order="12" weight="0.328594" />
-      <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40968344" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2503536" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.3279483" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3538175" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24932976" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29886147" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.03076923" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32982087" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32956523" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.23903818" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3273906" />
-      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32881773" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34078214" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -677,28 +633,12 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二天" />
@@ -713,125 +653,167 @@
     <MESSAGE value="线段树" />
     <option name="LAST_COMMIT_MESSAGE" value="线段树" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="90" key="#Tomcat_Server" timestamp="1577275519134">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="340" y="90" key="#Tomcat_Server/0.0.1536.824@0.0.1536.824" timestamp="1577275519134" />
+    <state x="357" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577275543295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="357" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577275543295" />
+    <state x="437" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577165613880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="437" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1577165613880" />
+    <state x="528" y="172" key="FileChooserDialogImpl" timestamp="1577275583241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="172" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577275583241" />
+    <state width="1462" height="244" key="GridCell.Tab.0.bottom" timestamp="1577523730355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1462" height="244" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577523730355" />
+    <state width="1462" height="244" key="GridCell.Tab.0.center" timestamp="1577523730355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1462" height="244" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577523730355" />
+    <state width="1462" height="244" key="GridCell.Tab.0.left" timestamp="1577523730355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1462" height="244" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577523730355" />
+    <state width="1462" height="244" key="GridCell.Tab.0.right" timestamp="1577523730355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1462" height="244" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577523730355" />
+    <state width="1462" height="244" key="GridCell.Tab.1.bottom" timestamp="1577523730356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1462" height="244" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577523730356" />
+    <state width="1462" height="244" key="GridCell.Tab.1.center" timestamp="1577523730355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1462" height="244" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577523730355" />
+    <state width="1462" height="244" key="GridCell.Tab.1.left" timestamp="1577523730355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1462" height="244" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577523730355" />
+    <state width="1462" height="244" key="GridCell.Tab.1.right" timestamp="1577523730356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1462" height="244" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577523730356" />
+    <state x="250" y="74" key="SettingsEditor" timestamp="1577275668293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="250" y="74" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577275668293" />
+    <state x="430" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1577518749158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577518749158" />
+    <state x="605" y="369" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577527625931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="605" y="369" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1577527625931" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/keywordTest/CodeOrderTest.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/AlgorithmTest/BinarySearch.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/lettCode907.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/lettCode907.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/lettCode68.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/lettCode68.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="157" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/leetcode362.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode362.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="202" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode673.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode673.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="208" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode746.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode746.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="220" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/lettcode27.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/lettcode27.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="230" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/leetcode34.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode34.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="240" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/leetcode34.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode34.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="241" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/leetcode35.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode35.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="242" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/leetcode496.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode496.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="266" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode152.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode152.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="276" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/leetcode916.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode916.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="288" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/leetcode92.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode92.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="305" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/leetcode845.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode845.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="337" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/leetcode930.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode930.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="341" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode86.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/LinkedList/leetcode86.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="348" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/lettcode/leetcode228.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode228.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="384" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="406" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -841,368 +823,6 @@
         <watch expression="seqTreeNodes[8]" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/lettcode27.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode48.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode35.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/lettcode31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode496.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1701#1718#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructrue/tree/stack/leetcode503.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode152.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="474" column="11" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode92.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/LinkedList/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode61.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode725.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode328.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/MaxSumVnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/MatrixTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode930.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode556.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-490">
-          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode845.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-53">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode916.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="47" selection-start-line="47" selection-end-line="54" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/LeetCode287.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode42.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/LeetCode41.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="387" selection-start-line="387" selection-end-line="387" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sort/ThreeQuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sort/SimpleQuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="11" selection-start-line="11" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/serializeTes/output.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode82.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="96" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/LinkedList/leetcode86.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/dp/leetcode978.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="50" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode215.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DataStructure/TireTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/tree.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode347.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/tree/leetcode106.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/tree/leetcode105.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" selection-start-line="10" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/tree/leetcode108.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode134.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/PakageMaxValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/UglyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmTest/Aarryesc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="137" column="1" lean-forward="true" selection-start-line="137" selection-start-column="1" selection-end-line="137" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode228.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="28" column="22" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="28" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/leetcode71.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadTest/PrintlnABC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-883">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lettcode/tree/seqtree/SeqTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="25" column="52" lean-forward="true" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="133">
-            <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

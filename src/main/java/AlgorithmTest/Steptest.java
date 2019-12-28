@@ -1,7 +1,5 @@
 package AlgorithmTest;
 
-import com.sun.org.apache.xerces.internal.impl.xpath.XPath;
-
 public class Steptest {
     public static void main(String[] args) {
         System.out.println(Step(15));
