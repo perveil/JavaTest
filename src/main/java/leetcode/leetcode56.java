@@ -29,10 +29,15 @@ public class leetcode56 {
 
         return list.toArray(new int[0][]);
     }
+    //leetcode757 设置交集
+    public int intersectionSizeTwo(int[][] intervals) {
+        int [][] boradenArray=merge(intervals);  //求并集
+        return boradenArray.length;
+    }
 
     public static void main(String[] args) {
-        new leetcode56().merge(new int[][]{
-                {1,3},{2,6},{8,10},{15,18}
+        new leetcode56().intersectionSizeTwo(new int[][]{
+                {1,3},{1,4},{2,5},{3,5}
         });
     }
 }

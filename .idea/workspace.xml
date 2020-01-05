@@ -4,13 +4,14 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c90cd8d5-5992-4244-b41b-93241a3fe741" name="Default" comment="线段树">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/StackTes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode394.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode77.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode871.java" afterDir="false" />
+    <list default="true" id="c90cd8d5-5992-4244-b41b-93241a3fe741" name="Default" comment="12/30 四道题">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode516andll34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode757.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/niuKE/niuke.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/LeetCode287.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetCode287.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/leetcode56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode56.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,22 +125,9 @@
     <property name="project.structure.side.proportion" value="0.19043693" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
-  <component name="RunManager" selected="Application.leetcode56">
-    <configuration name="StackTes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.StackTes" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leetcode4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode4" />
+  <component name="RunManager" selected="Application.leetcode516andll34">
+    <configuration name="leetcode516andll34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode516andll34" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -164,8 +152,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode77" />
+    <configuration name="leetcode73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode73" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -177,12 +165,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode829" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode829" />
+    <configuration name="leetcode757" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode757" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="niuke" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niuKE.niuke" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="niuKE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode516andll34" />
+        <item itemvalue="Application.niuke" />
+        <item itemvalue="Application.leetcode757" />
         <item itemvalue="Application.leetcode56" />
-        <item itemvalue="Application.leetcode77" />
-        <item itemvalue="Application.StackTes" />
-        <item itemvalue="Application.leetcode829" />
-        <item itemvalue="Application.leetcode4" />
+        <item itemvalue="Application.leetcode73" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +484,8 @@
       <workItem from="1577518747702" duration="5772000" />
       <workItem from="1577531258225" duration="1540000" />
       <workItem from="1577585437171" duration="9169000" />
-      <workItem from="1577668449723" duration="11203000" />
+      <workItem from="1577668449723" duration="14795000" />
+      <workItem from="1578210448243" duration="5955000" />
     </task>
     <task id="LOCAL-00001" summary="第二天">
       <created>1533624485092</created>
@@ -583,40 +585,15 @@
       <option name="project" value="LOCAL" />
       <updated>1577598638825</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="12/30 四道题">
+      <created>1577683099716</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1577683099716</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="MarkedJSTest_getFileName - 2018.10.07 at 20h 37m 43s.xml">
-      <configuration name="MarkedJSTest.getFileName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MarkedJSTest_getFileName - 2018.10.07 at 20h 38m 00s.xml">
-      <configuration name="MarkedJSTest.getFileName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MarkedJSTest_getFileName - 2018.10.07 at 20h 41m 05s.xml">
-      <configuration name="MarkedJSTest.getFileName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MarkedJSTest_getFileName - 2018.10.07 at 20h 42m 48s.xml">
-      <configuration name="MarkedJSTest.getFileName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MarkedJSTest_getFileName - 2018.10.07 at 20h 43m 06s.xml">
-      <configuration name="MarkedJSTest.getFileName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MarkedJSTest_getFileName - 2018.10.07 at 20h 43m 26s.xml">
-      <configuration name="MarkedJSTest.getFileName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MarkedJSTest_getFileName - 2018.10.07 at 20h 44m 16s.xml">
-      <configuration name="MarkedJSTest.getFileName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MarkedJSTest_getFileName - 2018.10.07 at 20h 46m 34s.xml">
-      <configuration name="MarkedJSTest.getFileName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MarkedJSTest_getFileName - 2018.10.07 at 20h 51m 25s.xml">
-      <configuration name="MarkedJSTest.getFileName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MarkedJSTest_getFileName - 2018.10.07 at 20h 52m 03s.xml">
-      <configuration name="MarkedJSTest.getFileName" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -664,7 +641,8 @@
     <MESSAGE value="leetcode --61" />
     <MESSAGE value="寒假5天" />
     <MESSAGE value="线段树" />
-    <option name="LAST_COMMIT_MESSAGE" value="线段树" />
+    <MESSAGE value="12/30 四道题" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/30 四道题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="340" y="90" key="#Tomcat_Server" timestamp="1577275519134">
@@ -687,54 +665,54 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="437" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1577165613880" />
-    <state x="382" y="12" key="CommitChangelistDialog2" timestamp="1577598636171">
+    <state x="382" y="12" key="CommitChangelistDialog2" timestamp="1577683098061">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="382" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577598636171" />
+    <state x="382" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577683098061" />
     <state x="528" y="172" key="FileChooserDialogImpl" timestamp="1577275583241">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="528" y="172" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577275583241" />
-    <state width="1340" height="220" key="GridCell.Tab.0.bottom" timestamp="1577673012493">
+    <state width="1341" height="264" key="GridCell.Tab.0.bottom" timestamp="1578218222964">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1340" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577673012493" />
-    <state width="1340" height="220" key="GridCell.Tab.0.center" timestamp="1577673012493">
+    <state width="1341" height="264" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578218222964" />
+    <state width="1341" height="264" key="GridCell.Tab.0.center" timestamp="1578218222964">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1340" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577673012493" />
-    <state width="1340" height="220" key="GridCell.Tab.0.left" timestamp="1577673012493">
+    <state width="1341" height="264" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578218222964" />
+    <state width="1341" height="264" key="GridCell.Tab.0.left" timestamp="1578218222964">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1340" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577673012493" />
-    <state width="1340" height="220" key="GridCell.Tab.0.right" timestamp="1577673012493">
+    <state width="1341" height="264" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578218222964" />
+    <state width="1341" height="264" key="GridCell.Tab.0.right" timestamp="1578218222964">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1340" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577673012493" />
-    <state width="1340" height="220" key="GridCell.Tab.1.bottom" timestamp="1577673012711">
+    <state width="1341" height="264" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578218222964" />
+    <state width="1341" height="264" key="GridCell.Tab.1.bottom" timestamp="1578218223333">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1340" height="220" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577673012711" />
-    <state width="1340" height="220" key="GridCell.Tab.1.center" timestamp="1577673012711">
+    <state width="1341" height="264" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578218223333" />
+    <state width="1341" height="264" key="GridCell.Tab.1.center" timestamp="1578218223333">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1340" height="220" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577673012711" />
-    <state width="1340" height="220" key="GridCell.Tab.1.left" timestamp="1577673012711">
+    <state width="1341" height="264" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578218223333" />
+    <state width="1341" height="264" key="GridCell.Tab.1.left" timestamp="1578218223332">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1340" height="220" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577673012711" />
-    <state width="1340" height="220" key="GridCell.Tab.1.right" timestamp="1577673012711">
+    <state width="1341" height="264" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578218223332" />
+    <state width="1341" height="264" key="GridCell.Tab.1.right" timestamp="1578218223333">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1340" height="220" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577673012711" />
+    <state width="1341" height="264" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578218223333" />
     <state x="250" y="74" key="SettingsEditor" timestamp="1577275668293">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="250" y="74" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577275668293" />
-    <state x="357" y="163" key="Vcs.Push.Dialog.v2" timestamp="1577527716955">
+    <state x="357" y="163" key="Vcs.Push.Dialog.v2" timestamp="1577683103990">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="357" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577527716955" />
+    <state x="357" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577683103990" />
     <state x="430" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1577518749158">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -797,11 +775,6 @@
           <option name="timeStamp" value="240" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode34.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="241" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode35.java</url>
           <line>25</line>
           <option name="timeStamp" value="242" />
@@ -846,15 +819,21 @@
           <line>28</line>
           <option name="timeStamp" value="384" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode757.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/leetcode516andll34.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="aimChars.length" language="JAVA" />
-        <watch expression="length[6]" />
-        <watch expression="result.next" language="JAVA" />
-        <watch expression="seqTreeNodes[8]" />
-        <watch expression="length[6]" />
+        <watch expression="dp[2]" />
       </configuration>
     </watches-manager>
   </component>
