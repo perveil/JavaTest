@@ -3,6 +3,7 @@ package leetcode;
 public class leetcode516andll34 {
     /*
     *  两个字符串的最长公共序列--》最长回文子序列
+    * leetcode1134
     * */
     public int longestPalindromeSubseq(String s) {
         StringBuilder str=new StringBuilder();
@@ -13,6 +14,7 @@ public class leetcode516andll34 {
     }
     /*
     * 两个字符串的最长公共序列
+    * leetcode516
     * */
 
     public int longestCommonSubsequence(String text1, String text2) {
