@@ -8,7 +8,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.atomic.AtomicInteger;
 /*
-*原子类 使得java语言中的有些非原子性操作变成原子性的，不会出现线程竞争的情况
+* 原子类 使得java语言中的有些非原子性操作变成原子性的，不会出现线程竞争的情况
 * 原子性操作在java语言中，主要有基本数据类型的赋值和返回操作
 *
 * */
