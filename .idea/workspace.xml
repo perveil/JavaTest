@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c90cd8d5-5992-4244-b41b-93241a3fe741" name="Default" comment="回溯">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThreadTest/char01/LiveAThreadExtendsThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode121Or122Or123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/bfs/leetcode200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/dfs/leetcode200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode719.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/sildeWindow/Interview1718.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadTest/AtomicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreadTest/AtomicTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,12 +86,13 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:/apache/apache-maven-3.6.3" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -120,15 +123,28 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.19043693" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.LiveAThreadExtendsThread">
+  <component name="RunManager" selected="Application.leetcode719">
     <configuration name="AtomicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreadTest.AtomicTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ThreadTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Interview1718" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.sildeWindow.Interview1718" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.sildeWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,38 +165,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode118Or119" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode118Or119" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leetcode126Or127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dfs.leetcode126Or127" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.dfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="leetcode131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.traceBack.leetcode131" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.traceBack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode719" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode719" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode719" />
+        <item itemvalue="Application.Interview1718" />
         <item itemvalue="Application.LiveAThreadExtendsThread" />
         <item itemvalue="Application.AtomicTest" />
         <item itemvalue="Application.leetcode131" />
-        <item itemvalue="Application.leetcode126Or127" />
-        <item itemvalue="Application.leetcode118Or119" />
       </list>
     </recent_temporary>
   </component>
@@ -497,6 +500,9 @@
       <workItem from="1579085521559" duration="5059000" />
       <workItem from="1579259985698" duration="1165000" />
       <workItem from="1579262840487" duration="656000" />
+      <workItem from="1582784868993" duration="66000" />
+      <workItem from="1582944350744" duration="3370000" />
+      <workItem from="1583032384024" duration="7851000" />
     </task>
     <task id="LOCAL-00001" summary="第二天">
       <created>1533624485092</created>
@@ -744,10 +750,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579261622369" />
-    <state x="437" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577165613880">
+    <state x="437" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582784920757">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="437" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1577165613880" />
+    <state x="437" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1582784920757" />
     <state x="382" y="12" key="CommitChangelistDialog2" timestamp="1579077382851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -756,42 +762,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="528" y="172" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577275583241" />
-    <state width="1371" height="165" key="GridCell.Tab.0.bottom" timestamp="1579261905467">
+    <state width="1165" height="274" key="GridCell.Tab.0.bottom" timestamp="1583059761219">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1371" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579261905467" />
-    <state width="1371" height="165" key="GridCell.Tab.0.center" timestamp="1579261905467">
+    <state width="1165" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583059761219" />
+    <state width="1165" height="274" key="GridCell.Tab.0.center" timestamp="1583059761219">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1371" height="165" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579261905467" />
-    <state width="1371" height="165" key="GridCell.Tab.0.left" timestamp="1579261905467">
+    <state width="1165" height="274" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583059761219" />
+    <state width="1165" height="274" key="GridCell.Tab.0.left" timestamp="1583059761219">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1371" height="165" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579261905467" />
-    <state width="1371" height="165" key="GridCell.Tab.0.right" timestamp="1579261905467">
+    <state width="1165" height="274" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583059761219" />
+    <state width="1165" height="274" key="GridCell.Tab.0.right" timestamp="1583059761219">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1371" height="165" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579261905467" />
-    <state width="1230" height="224" key="GridCell.Tab.1.bottom" timestamp="1579077970954">
+    <state width="1165" height="274" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583059761219" />
+    <state width="1165" height="274" key="GridCell.Tab.1.bottom" timestamp="1583059761406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1230" height="224" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579077970954" />
-    <state width="1230" height="224" key="GridCell.Tab.1.center" timestamp="1579077970954">
+    <state width="1165" height="274" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583059761406" />
+    <state width="1165" height="274" key="GridCell.Tab.1.center" timestamp="1583059761406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1230" height="224" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579077970954" />
-    <state width="1230" height="224" key="GridCell.Tab.1.left" timestamp="1579077970954">
+    <state width="1165" height="274" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583059761406" />
+    <state width="1165" height="274" key="GridCell.Tab.1.left" timestamp="1583059761406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1230" height="224" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579077970954" />
-    <state width="1230" height="224" key="GridCell.Tab.1.right" timestamp="1579077970954">
+    <state width="1165" height="274" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583059761406" />
+    <state width="1165" height="274" key="GridCell.Tab.1.right" timestamp="1583059761406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1230" height="224" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579077970954" />
-    <state x="250" y="74" key="SettingsEditor" timestamp="1577275668293">
+    <state width="1165" height="274" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583059761406" />
+    <state x="250" y="74" key="SettingsEditor" timestamp="1583034961787">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="250" y="74" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577275668293" />
+    <state x="250" y="74" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583034961787" />
     <state x="357" y="163" key="Vcs.Push.Dialog.v2" timestamp="1579077393384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -804,10 +810,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="605" y="369" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1577527625931" />
-    <state x="433" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1579062016820">
+    <state x="434" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1583058265160">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="433" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579062016820" />
+    <state x="434" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583058265160" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
