@@ -25,9 +25,6 @@ public class Backage01 {
                 dp[j][i]=dp[j-1][i];   //无剩余容量或者装入后价值不增加
             }
         }
-
-
-
         return result;
 
 

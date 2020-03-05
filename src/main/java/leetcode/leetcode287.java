@@ -1,6 +1,6 @@
 package leetcode;
 
-public class leetCode287 {
+public class leetcode287 {
     public static void main(String[] args) {
       System.out.println(findDuplicate(new int[]{8,7,1,10,17,15,18,11,16,9,19,12,5,14,3,4,2,13,18,18}));
     }
