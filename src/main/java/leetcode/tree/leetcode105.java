@@ -1,9 +1,4 @@
 package leetcode.tree;
-
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-
 /*
 *  根据前序遍历、中序遍历构造二叉树
 * */

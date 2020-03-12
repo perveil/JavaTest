@@ -1,24 +1,11 @@
 package dataStructrue.tree;
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
+import leetcode.tree.TreeNode;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
-class Solution {
-    public List<Integer> inorderTraversal(TreeNode root) {
-        ArrayList<Integer> res=new ArrayList<>();
-        if(root==null)
-            return res;
-        res.addAll(inorderTraversal(root.left));
-        res.addAll(inorderTraversal(root.right));
-        res.add(root.val);
-        return res;
-    }
-}
 
 public class CreateTree {
+
     public static TreeNode stringToTreeNode(String input) {
         input = input.trim();
         input = input.substring(1, input.length() - 1);
@@ -80,17 +67,4 @@ public class CreateTree {
         return integerArrayListToString(nums, nums.size());
     }
 
-    public static void main(String[] args) throws IOException {
-        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-        String line;
-        while ((line = in.readLine()) != null) {
-            TreeNode root = stringToTreeNode(line);
-
-            List<Integer> ret = new Solution().inorderTraversal(root);
-
-            String out = integerArrayListToString(ret);
-
-            System.out.print(out);
-        }
-    }
 }
