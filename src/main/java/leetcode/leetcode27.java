@@ -1,8 +1,8 @@
 package leetcode;
 
-public class lettcode27 {
+public class leetcode27 {
     public static void main(String[] args) {
-        new lettcode27().removeElement(
+        new leetcode27().removeElement(
                 new int[]{
                         3,2,2,3
                 },3

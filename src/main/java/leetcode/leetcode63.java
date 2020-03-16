@@ -2,10 +2,10 @@ package leetcode;
 /*
 * 递归，遇见1返回0
 * */
-public class lettcode63 {
+public class leetcode63 {
     public static void main(String[] args) {
         System.out.println(
-                new lettcode63().uniquePathsWithObstacles(new int[][]{
+                new leetcode63().uniquePathsWithObstacles(new int[][]{
                         {0,0,0},
                         {0,1,0},
                         {0,0,0},

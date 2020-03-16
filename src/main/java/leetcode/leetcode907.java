@@ -5,7 +5,7 @@ package leetcode;
 *
 * */
 
-public class lettCode907 {
+public class leetcode907 {
     public static void main(String[] args) {
         System.out.println(
                 sumSubarrayMins(new int[]{

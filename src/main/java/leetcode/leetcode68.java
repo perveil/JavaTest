@@ -3,7 +3,7 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class lettCode68 {
+public class leetcode68 {
     public static void main(String[] args) {
  //      String [] words = {"What","must","be","acknowledgment","shall","be"};
         String []    words = {"Science","is","what","we","understand","well","enough","to","explain",

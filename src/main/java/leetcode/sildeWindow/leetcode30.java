@@ -30,13 +30,13 @@ public class leetcode30 {
                     /*
                     * 当w的个数多出来时，left右移
                     * */
-                    while (tmp_map.getOrDefault(w, 0) > map.getOrDefault(w, 0)) {
+                    while (tmp_map.getOrDefault(w, 0) > map.getOrDefault(w, 0)) {  //多出来的时候向左移
                         String t_w = s.substring(left, left + one_word);
                         count--;
                         tmp_map.put(t_w, tmp_map.getOrDefault(t_w, 0) - 1);
                         left += one_word;
                     }
-                    if (count==words.length) res.add(left);
+                    if (count==words.length) res.add(left); //多出来的都已经除去
                 }
             }
         }

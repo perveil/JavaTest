@@ -9,9 +9,9 @@ package leetcode;
 * 解法二
 * */
 
-public class lettcode97 {
+public class leetcode97 {
     public static void main(String[] args) {
-          new lettcode97().isInterleave(
+          new leetcode97().isInterleave(
                   "aabcc",  "dbbca",  "aadbbcbcac"
           );
     }

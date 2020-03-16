@@ -22,7 +22,6 @@ public class leetcode279 {
                 }
             }
         }
-        System.out.println(dp[n]);
         return dp[n];
     }
 }

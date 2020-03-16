@@ -5,10 +5,10 @@ import java.util.List;
 /*
 * @author laiso
 * */
-public class lettcode46 {
+public class leetcode46 {
     public static void main(String[] args) {
         System.out.println(
-            new lettcode46().permute(new int[]{
+            new leetcode46().permute(new int[]{
                     1,1,3
             })
         );

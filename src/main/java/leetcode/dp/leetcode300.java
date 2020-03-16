@@ -21,7 +21,7 @@ public class leetcode300 {
         }
         int result=1;
         int resultArray []=new int [nums.length]; //dp的目标数组
-        for (int i = 0; i <resultArray.length ; i++) {
+        for (int i = 0; i <resultArray.length ; i++) { //初始化
             resultArray[i]=1;
         }
         for (int i = 1; i <nums.length ; i++) {
