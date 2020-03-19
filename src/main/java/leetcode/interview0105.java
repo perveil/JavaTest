@@ -1,6 +1,6 @@
 package leetcode;
 
-public class leetcode0105 {
+public class interview0105 {
     /*
     * first -->second
     * 情况分三种：
