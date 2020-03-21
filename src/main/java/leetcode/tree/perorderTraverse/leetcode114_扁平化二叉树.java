@@ -2,7 +2,7 @@ package leetcode.tree.perorderTraverse;
 
 import leetcode.tree.TreeNode;
 
-public class leetcode114 {
+public class leetcode114_扁平化二叉树 {
     public void flatten(TreeNode root) {
         while (root != null) {
             //左子树为 null，直接考虑下一个节点

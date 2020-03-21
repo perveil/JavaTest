@@ -4,7 +4,7 @@ package leetcode;
 * */
 import java.util.Arrays;
 
-public class LeetCode41 {
+public class leetcode41 {
     public static void main(String[] args) {
 
         System.out.println(
