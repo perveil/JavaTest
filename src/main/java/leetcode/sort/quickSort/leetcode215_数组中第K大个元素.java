@@ -1,11 +1,9 @@
 package leetcode.sort.quickSort;
 
-import java.util.Arrays;
-
 /*
 * 寻找第k大 等价于寻找第n-k小
 * */
-public class leetcode215 {
+public class leetcode215_数组中第K大个元素 {
     public int findKthLargest(int[] nums, int k) {
         int size = nums.length;
         return quickSearch(nums,0,size-1,size-k);
@@ -39,7 +37,7 @@ public class leetcode215 {
     }
 
     public static void main(String[] args) {
-        new leetcode215().partition(new int[]{
+        new leetcode215_数组中第K大个元素().partition(new int[]{
                 3,2,3,1,2,4,5,5,6
         },0,8);
     }

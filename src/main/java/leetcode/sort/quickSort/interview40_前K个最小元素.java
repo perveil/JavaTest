@@ -2,7 +2,7 @@ package leetcode.sort.quickSort;
 
 import java.util.Arrays;
 
-public class interview40 {
+public class interview40_前K个最小元素 {
     public int[] getLeastNumbers(int[] arr, int k) {
         if (k == 0 || arr.length == 0) {
             return new int[0];

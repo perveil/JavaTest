@@ -4,7 +4,6 @@ public class leetcode537_复数乘法 {
     public String complexNumberMultiply(String a, String b) {
         int[] numa=split(a);
         int[] numb=split(b);
-
         int res01=numa[0]*numb[0]-(numa[1]*numb[1]); //实数部
         int res02=numa[0]*numb[1]+numa[1]*numb[0];   //虚数部
         return res01+"+"+res02+"i";
