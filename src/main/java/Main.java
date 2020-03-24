@@ -16,6 +16,7 @@ public class Main {
 //        SimpleDateFormat format=new SimpleDateFormat("yyyy-MM-dd");
 //        calendar.setTime(format.parse(data));
 //        System.out.println(calendar.get(Calendar.WEEK_OF_YEAR));
+        System.out.println(0>>1);
 
     }
 }

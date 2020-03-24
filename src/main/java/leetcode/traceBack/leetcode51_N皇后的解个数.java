@@ -1,6 +1,6 @@
 package leetcode.traceBack;
 
-public class leetcode51 {
+public class leetcode51_N皇后的解个数 {
     int res=0;
     public int totalNQueens(int n) {
         int[][]nums=new int[n][n];
@@ -36,6 +36,6 @@ public class leetcode51 {
     }
 
     public static void main(String[] args) {
-        new leetcode51().totalNQueens(4);
+        new leetcode51_N皇后的解个数().totalNQueens(4);
     }
 }
