@@ -2,7 +2,7 @@ package leetcode.bfs;
 
 import java.util.LinkedList;
 
-public class leetcode200 {
+public class leetcode200_岛屿数量 {
     int[][] directions = {{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
     private int rows;
     private int cols;
