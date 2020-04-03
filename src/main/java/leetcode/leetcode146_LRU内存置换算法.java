@@ -3,10 +3,12 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
-
+/*
+* HashMap 、linkedList 综合应用
+* */
 class LRUCache {
-    HashMap<Integer,Integer> hashMap;
-    LinkedList<Integer> list;
+    HashMap<Integer,Integer> hashMap; //key-value 的映射
+    LinkedList<Integer> list;  //key 的队列
     int capacity;
     int initcapacity=0;
     public LRUCache(int capacity) {
@@ -14,10 +16,13 @@ class LRUCache {
         list=new LinkedList<>();
         this.capacity=capacity;
     }
-
-    public int get(int key) {    //刚访问之后需要改变次序
+     /*
+     * list.remove（key） 是删除了index=key上的元素
+     * */
+    public int get(int key) {           //刚访问之后需要改变次序,将刚访问过的放到队列的最前边
         if (hashMap.containsKey(key)){
-            list.addFirst(list.remove(key));
+            int index=list.indexOf(key);
+            list.addFirst(list.remove(index));
             return hashMap.get(key);
         }
         return -1;
@@ -26,19 +31,21 @@ class LRUCache {
     public void put(int key, int value) {
         if (!hashMap.containsKey(key)) { //如果不存在
             if (initcapacity == capacity){ //存储空间已满
-                 int temp = list.removeLast();
-                 hashMap.remove(temp); //删除队尾
-                 initcapacity--; //删除队尾时，容量--
+                 int temp = list.removeLast(); //删除队尾元素
+                 hashMap.remove(temp);
+                 initcapacity--;               //删除队尾时，容量--
              }
-            hashMap.put(key,key);
+            hashMap.put(key,value);
             list.addFirst(key);
             initcapacity++;
         }else{
-            list.addFirst(list.remove(key)); //如果存在则放置在队列首部,map不变
+            hashMap.put(key,value);
+            int index=list.indexOf(key);
+            list.addFirst(list.remove(index)); //如果存在则放置在队列首部,map长度不变
         }
     }
 }
-public class leetcode146 {
+public class leetcode146_LRU内存置换算法 {
     public static void main(String[] args) {
         LRUCache cache=new LRUCache(2); //新建缓存
         cache.put(1, 1);
