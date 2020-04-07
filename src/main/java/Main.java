@@ -16,15 +16,10 @@ public class Main {
 //        SimpleDateFormat format=new SimpleDateFormat("yyyy-MM-dd");
 //        calendar.setTime(format.parse(data));
 //        System.out.println(calendar.get(Calendar.WEEK_OF_YEAR));
-        int[] nums=new int[]{
-                0,1,0,1,0,1,3
-        };
-        int res=0;
-        for (int i:
-             nums) {
-            res^=i;
-        }
-        System.out.println(res);
+        String remain="123";
+        System.out.println(
+           remain.substring(0,0)+remain.substring(1)
+        );
 
     }
 }
