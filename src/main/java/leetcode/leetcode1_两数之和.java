@@ -2,7 +2,7 @@ package leetcode;
 /*
 * 查找有序数组的中位数
 * */
-public class leetcode4 {
+public class leetcode1_两数之和 {
     public int[] twoSum(int[] numbers, int target) {
         int [] nums=new int[2];
         int start=0,end=numbers.length-1;
@@ -24,6 +24,6 @@ public class leetcode4 {
         int [] nums=new int[]{
                 2, 7, 11, 15
         };
-        new leetcode4().twoSum(nums,9);
+        new leetcode1_两数之和().twoSum(nums,9);
     }
 }
