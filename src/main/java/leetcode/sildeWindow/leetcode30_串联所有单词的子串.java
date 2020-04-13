@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class leetcode30 {
+public class leetcode30_串联所有单词的子串 {
     public List<Integer> findSubstring(String s, String[] words) {
         List<Integer> res=new ArrayList<>();
         if (s == null || s.length() == 0 || words == null || words.length == 0) return res;
@@ -14,7 +14,9 @@ public class leetcode30 {
              words) {
             map.put(word,map.getOrDefault(word,0)+1);
         }
-        for (int i = 0; i <s.length() - one_word*words.length + 1; i++) {
+        //i<s.length() - one_word*words.length + 1 的意思是要最少满足one_word*words.length的长度
+        //i<one_word 表示
+        for (int i = 0; i <one_word; i++) {
             int left = i, right = i, count = 0; //滑动窗口
             HashMap<String, Integer> tmp_map = new HashMap<>(); //目前的wordmap
             while(right+one_word<=s.length()){
@@ -36,7 +38,7 @@ public class leetcode30 {
                         tmp_map.put(t_w, tmp_map.getOrDefault(t_w, 0) - 1);
                         left += one_word;
                     }
-                    if (count==words.length) res.add(left); //多出来的都已经除去
+                    if (count==words.length) res.add(left);  //多出来的都已经除去，除去之后依然合理则得出结果
                 }
             }
         }
