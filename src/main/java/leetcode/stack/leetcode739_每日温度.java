@@ -16,7 +16,7 @@ public class leetcode739_每日温度 {
         * */
         for (int i = T.length-1; i>-1; --i) {
             /*
-            * T[i]>=T[stack.peek()] 右侧出现不递增的情况，则把右侧清除满足单调栈的要求
+            * T[i]>=T[stack.peek()] 右侧出现不递增的情况，则把右侧清除直到满足单调栈的要求
             * */
             while (!stack.isEmpty()&&T[i]>=T[stack.peek()]){
                 stack.pop();

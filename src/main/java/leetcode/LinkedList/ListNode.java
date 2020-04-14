@@ -5,7 +5,7 @@ public class ListNode {
     public int val;
     public ListNode next;
     public ListNode(int x) { val = x; }
-    public  int[] stringToIntegerArray(String input) {
+    static   public  int[] stringToIntegerArray(String input) {
         input = input.trim();
         input = input.substring(1, input.length() - 1);
         if (input.length() == 0) {
@@ -20,7 +20,7 @@ public class ListNode {
         }
         return output;
     }
-    public  String listNodeToString(ListNode node) {
+    static public  String listNodeToString(ListNode node) {
         if (node == null) {
             return "[]";
         }
@@ -32,7 +32,7 @@ public class ListNode {
         }
         return "[" + result.substring(0, result.length() - 2) + "]";
     }
-    public  ListNode stringToListNode(String input) {
+    static public  ListNode stringToListNode(String input) {
         // Generate array from the input
         int[] nodeValues = stringToIntegerArray(input);
         // Now convert that list into linked list
