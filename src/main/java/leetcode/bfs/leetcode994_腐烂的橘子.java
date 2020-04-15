@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Queue;
 
-public class leetcode994 {
+public class leetcode994_腐烂的橘子 {
     int[][] directions = {{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
     private int rows;
     private int cols;

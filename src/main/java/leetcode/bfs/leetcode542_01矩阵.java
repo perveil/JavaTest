@@ -49,4 +49,11 @@ public class leetcode542_01矩阵 {
         // 等于号不要忘了
         return x >= 0 && x < row && y >= 0 && y < col;
     }
+
+    public static void main(String[] args) {
+        new leetcode542_01矩阵().updateMatrix(new int[][]{
+                new int[]{0,0,0},new int[]{0,1,0},new  int[]{1,1,1}
+        });
+
+    }
 }
