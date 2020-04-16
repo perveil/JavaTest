@@ -3,9 +3,9 @@ package leetcode;
 /*
 *
 * */
-public class leetcode31 {
+public class leetcode31_下一个排列 {
     public static void main(String[] args) {
-        new leetcode31().nextPermutation(
+        new leetcode31_下一个排列().nextPermutation(
                 new int[]{
                     1,2,7,4,3,1
                 }

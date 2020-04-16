@@ -6,17 +6,11 @@ import java.util.List;
 /*
 *   递归加回溯=>分治
 * */
-public class leetcode131 {
+public class leetcode131_分割回文字符串 {
     List<List<String>> methods=new ArrayList<>();
     public List<List<String>> partition(String s) {
         int len=s.length();
         partitionHelper(s,0,len,new ArrayList<String>());
-//        int Min=Integer.MAX_VALUE;
-//        for (List<String> strs:
-//             methods) {
-//            Min=Math.min(strs.size(),Min);
-//
-//        }   超时
         return methods;
     }
     public void partitionHelper(String s,int start,int end,List<String> list) {
@@ -24,7 +18,7 @@ public class leetcode131 {
             methods.add(new ArrayList<>(list));
         }
         for (int i=start+1;i<=end;i++){
-            if (isPalindrome(s.substring(start,i))){
+            if (isPalindrome(s.substring(start,i))){ //i=start+1 是切割出一个字符
                 list.add(s.substring(start,i));
                 partitionHelper(s,i,end,list);
                 list.remove(list.size() - 1); //回溯
@@ -43,7 +37,7 @@ public class leetcode131 {
     }
 
     public static void main(String[] args) {
-        new leetcode131().partition("aab");
+        new leetcode131_分割回文字符串().partition("aab");
     }
 
 }

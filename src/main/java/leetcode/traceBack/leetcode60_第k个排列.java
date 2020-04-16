@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class leetcode60_第k个排列 {
+    /*
+    * 暴力回溯超时
+    * */
     List<String> result=new ArrayList<>();
     public String getPermutation(int n, int k) {
         String s="";

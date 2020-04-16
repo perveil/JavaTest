@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.*;
 
-public class leetcode56 {
+public class leetcode56_合并区间 {
     public int[][] merge(int[][] intervals) {
         if(intervals.length==0||intervals.length==1) return intervals;
         List<int[]> list = new ArrayList<>();
@@ -15,6 +15,7 @@ public class leetcode56 {
         });
         //前后合并
         for (int i = 1; i < intervals.length ; i++) {
+            //intervals[i][0] intervals[i][1] 分别表示i+1的区间合并完之后的左侧、右侧边界
             if (intervals[i][0] <= intervals[i-1][1]){
                 intervals[i][0] = intervals[i][0] < intervals[i-1][0] ? intervals[i][0] : intervals[i-1][0];
                 intervals[i][1] = intervals[i][1] < intervals[i-1][1] ? intervals[i-1][1] : intervals[i][1];
@@ -36,8 +37,8 @@ public class leetcode56 {
     }
 
     public static void main(String[] args) {
-        new leetcode56().intersectionSizeTwo(new int[][]{
-                {1,3},{1,4},{2,5},{3,5}
+        new leetcode56_合并区间().intersectionSizeTwo(new int[][]{
+                {1,3},{2,4},{2,5},{3,5}
         });
     }
 }

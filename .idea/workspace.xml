@@ -4,12 +4,17 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c90cd8d5-5992-4244-b41b-93241a3fe741" name="Default" comment="4/14">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/binarySearch/leetcode74_搜索二维矩阵.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode29_两数相除.java" afterDir="false" />
+    <list default="true" id="c90cd8d5-5992-4244-b41b-93241a3fe741" name="Default" comment="4/15">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode57_插入区间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/sildeWindow/leetcode76_最小覆盖子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/traceBack/leetcode39_组合总和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/traceBack/leetcode40_组合总和II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/bfs/leetcode542_01矩阵.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/bfs/leetcode542_01矩阵.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/bfs/leetcode994.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/bfs/leetcode994_腐烂的橘子.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/leetcode31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode31_下一个排列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/leetcode56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode56_合并区间.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/sort/quickSort/leetcode912_排序算法.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/sort/quickSort/leetcode912_排序算法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/traceBack/leetcode131.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/traceBack/leetcode131_分割回文字符串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/traceBack/leetcode60_第k个排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/traceBack/leetcode60_第k个排列.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +92,7 @@
     <property name="project.structure.side.proportion" value="0.19043693" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.leetcode542_01矩阵">
+  <component name="RunManager" selected="Application.leetcode57_插入区间">
     <configuration name="leetcode1290_二进制链表转整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.LinkedList.leetcode1290_二进制链表转整数" />
       <module name="JavaTest" />
@@ -114,19 +119,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode355_设计推特" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode355_设计推特" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="leetcode445_两数相加_链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.LinkedList.leetcode445_两数相加_链表" />
       <module name="JavaTest" />
@@ -146,6 +138,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode57_插入区间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode57_插入区间" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode57_插入区间" />
         <item itemvalue="Application.leetcode542_01矩阵" />
         <item itemvalue="Application.leetcode140_单词拆分" />
         <item itemvalue="Application.leetcode1290_二进制链表转整数" />
         <item itemvalue="Application.leetcode445_两数相加_链表" />
-        <item itemvalue="Application.leetcode355_设计推特" />
       </list>
     </recent_temporary>
   </component>
@@ -516,14 +521,9 @@
       <workItem from="1586686712664" duration="187000" />
       <workItem from="1586740780025" duration="11243000" />
       <workItem from="1586827477677" duration="6549000" />
-      <workItem from="1586913741363" duration="4917000" />
-    </task>
-    <task id="LOCAL-00019" summary="链表排序: 双栈+直接插入+归并">
-      <created>1578574636706</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1578574636706</updated>
+      <workItem from="1586913741363" duration="5840000" />
+      <workItem from="1586935273961" duration="6830000" />
+      <workItem from="1586998870217" duration="9554000" />
     </task>
     <task id="LOCAL-00020" summary="链表 k-group 反转">
       <created>1578727358222</created>
@@ -861,7 +861,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586836639946</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="4/15">
+      <created>1586918969140</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1586918969140</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TodoView">
@@ -900,7 +907,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3/16" />
     <MESSAGE value="3/17" />
     <MESSAGE value="3/18" />
     <MESSAGE value="3/19" />
@@ -925,7 +931,8 @@
     <MESSAGE value="4/11" />
     <MESSAGE value="4/13" />
     <MESSAGE value="4/14" />
-    <option name="LAST_COMMIT_MESSAGE" value="4/14" />
+    <MESSAGE value="4/15" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/15" />
   </component>
   <component name="WindowStateProjectService">
     <state x="481" y="79" key="#Notifications" timestamp="1584066635208">
@@ -956,60 +963,60 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="64" key="#leetcode.heap_in_JavaTest/0.0.1536.824@0.0.1536.824" timestamp="1584674142594" />
-    <state x="382" y="12" key="CommitChangelistDialog2" timestamp="1586836638415">
+    <state x="382" y="12" key="CommitChangelistDialog2" timestamp="1586918967572">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="382" y="12" key="CommitChangelistDialog2/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585921009945" />
-    <state x="382" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586836638415" />
-    <state width="1174" height="307" key="GridCell.Tab.0.bottom" timestamp="1586914451526">
+    <state x="382" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586918967572" />
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom" timestamp="1587001498193">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1118" height="326" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586182483472" />
-    <state width="1174" height="307" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586914451526" />
-    <state width="1174" height="307" key="GridCell.Tab.0.center" timestamp="1586914451526">
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587001498193" />
+    <state width="1493" height="151" key="GridCell.Tab.0.center" timestamp="1587001498193">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1118" height="326" key="GridCell.Tab.0.center/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586182483472" />
-    <state width="1174" height="307" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586914451526" />
-    <state width="1174" height="307" key="GridCell.Tab.0.left" timestamp="1586914451526">
+    <state width="1493" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587001498193" />
+    <state width="1493" height="151" key="GridCell.Tab.0.left" timestamp="1587001498193">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1118" height="326" key="GridCell.Tab.0.left/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586182483472" />
-    <state width="1174" height="307" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586914451526" />
-    <state width="1174" height="307" key="GridCell.Tab.0.right" timestamp="1586914451526">
+    <state width="1493" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587001498193" />
+    <state width="1493" height="151" key="GridCell.Tab.0.right" timestamp="1587001498193">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1118" height="326" key="GridCell.Tab.0.right/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586182483472" />
-    <state width="1174" height="307" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586914451526" />
-    <state width="1174" height="307" key="GridCell.Tab.1.bottom" timestamp="1586914451917">
+    <state width="1493" height="151" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587001498193" />
+    <state width="1493" height="151" key="GridCell.Tab.1.bottom" timestamp="1587001498537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1118" height="326" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586182483472" />
-    <state width="1174" height="307" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586914451917" />
-    <state width="1174" height="307" key="GridCell.Tab.1.center" timestamp="1586914451917">
+    <state width="1493" height="151" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587001498537" />
+    <state width="1493" height="151" key="GridCell.Tab.1.center" timestamp="1587001498537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1118" height="326" key="GridCell.Tab.1.center/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586182483472" />
-    <state width="1174" height="307" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586914451917" />
-    <state width="1174" height="307" key="GridCell.Tab.1.left" timestamp="1586914451917">
+    <state width="1493" height="151" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587001498537" />
+    <state width="1493" height="151" key="GridCell.Tab.1.left" timestamp="1587001498537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1118" height="326" key="GridCell.Tab.1.left/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586182483472" />
-    <state width="1174" height="307" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586914451917" />
-    <state width="1174" height="307" key="GridCell.Tab.1.right" timestamp="1586914451917">
+    <state width="1493" height="151" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587001498537" />
+    <state width="1493" height="151" key="GridCell.Tab.1.right" timestamp="1587001498537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1118" height="326" key="GridCell.Tab.1.right/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1586182483472" />
-    <state width="1174" height="307" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586914451917" />
+    <state width="1493" height="151" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587001498537" />
     <state x="250" y="74" key="SettingsEditor" timestamp="1586915822490">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="250" y="74" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586915822490" />
-    <state x="357" y="163" key="Vcs.Push.Dialog.v2" timestamp="1586836644722">
+    <state x="357" y="163" key="Vcs.Push.Dialog.v2" timestamp="1586919074433">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="357" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1585921062774" />
-    <state x="357" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586836644722" />
+    <state x="357" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586919074433" />
     <state x="0" y="58" key="new project wizard" timestamp="1586510859797">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1128,19 +1135,9 @@
           <option name="timeStamp" value="417" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/traceBack/leetcode52_N皇后的解.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="425" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/dp/leetcode10_正则表达式.java</url>
           <line>41</line>
           <option name="timeStamp" value="426" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leetcode/bfs/leetcode542_01矩阵.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="430" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

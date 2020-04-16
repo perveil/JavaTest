@@ -1,5 +1,7 @@
 package leetcode.sort.quickSort;
-
+/*
+* 同类型题有 leetcode75
+* */
 public class leetcode912_排序算法 {
     public void quicksort(){
         int []nums=new int[]{
@@ -12,7 +14,7 @@ public class leetcode912_排序算法 {
         int i=start;
         int j=end;
         if (i>=j||i>nums.length-1) return;
-        while(i<j){
+        while(i<j){ // 搜索区间 [i,j]
             while(i<j&&nums[j]>privot){
                 j--;
             }
