@@ -1,6 +1,6 @@
 package leetcode.dp;
 
-public class leetcode72 {
+public class leetcode72_编辑距离 {
     /*
     * word1 -> word2
     * */
@@ -27,7 +27,7 @@ public class leetcode72 {
                 }else{
                     /*
                      * i j 所对应的字符不同时
-                     * 需要替换、删除、插入一次操作：dp[i-1][j]+1(替换、删除)、dp[i][j-1]+1(替换、删除)、dp[i-1][j-1]+1(插入)
+                     * 需要替换、删除、插入一次操作：dp[i-1][j-1]+1替换、dp[i][j-1]+1(替换、删除)、dp[i-1][j-1]+1(插入)
                      * */
                     dp[i][j]=Math.min(dp[i-1][j-1],Math.min(dp[i-1][j],dp[i][j-1]))+1;
                 }
