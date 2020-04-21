@@ -1,26 +1,29 @@
-package leetcode;
+package leetcode.sildeWindow;
 
 import java.util.HashMap;
 
 public class leetcode560_和为k的连续子数组的个数 {
     /*
     * 滑动窗口 可以解决k！=0 的情况
+    * 滑动窗口有一个最重要的使用前提：
+    *    对于一个固定的左端点，满足条件的右端点集合是连续并且递增的
+    * 不满足递增的条件，不能使用滑动窗口
     * */
     public int subarraySumOfsildeWindow(int[] nums, int k) {
         int l=0,r=0;
         int res=0;
         int cur_sum=0;
         while(r<nums.length){
-            if (cur_sum==k) res++;
-            cur_sum+=nums[r];
-            while (l<=r&&cur_sum>k){
+            if (cur_sum<=k){
+                cur_sum+=nums[r];
+            }
+            while (l<=r&&cur_sum>=k){
                 cur_sum-=nums[l];
                 l++;
+                if (cur_sum==k) res++;
             }
             r++;
         }
-        if (cur_sum==k) res++;
-        //if (k==0) res--; //减去由cur_sum初始值=0，带来的歧义
         return res;
     }
     /*
