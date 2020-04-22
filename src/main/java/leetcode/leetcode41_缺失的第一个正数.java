@@ -4,7 +4,7 @@ package leetcode;
 * */
 import java.util.Arrays;
 
-public class leetcode41 {
+public class leetcode41_缺失的第一个正数 {
     public static void main(String[] args) {
 
         System.out.println(
