@@ -6,56 +6,45 @@ package leetcode.bfs;/*
 import java.util.*;
 
 public class leetcode1377_青蛙跳跳跳 {
-    //有向树解法
+    //无向树解法
+    double []res=new double[101]; //表示跳到某一节点的概率,最大只有100个数据点
+    boolean marked[]=new boolean[101];
+    HashMap<Integer,List<Integer>> map=new HashMap<>(); //无向图的邻接矩阵
     public double frogPosition(int n, int[][] edges, int t, int target) {
-        List<Integer> levelList=new ArrayList<>();
-        Queue<Integer> q=new ArrayDeque<>();
-        boolean [] marked=new boolean[n+1];
-        q.add(1); //1进队
-        marked[1]=true;
-        boolean is=false;
-        int parent=-1;
-        boolean isHaveBack=false;
-        while(!q.isEmpty()&&!is){
-            int size=q.size();
-            levelList.add(size);
-            for (int i = 0; i <size&&!is ; i++) {
-                int temp=q.poll();
-                for (int j[]:edges) {
-                    if (j[0]==temp&&!marked[j[1]]){
-                        q.add(j[1]);
-                        parent=temp;
-                        if (j[1]==target){
-                            for (int k[]:edges) {
-                                if (k[0]==target && !marked[k[1]]){
-                                    isHaveBack=true;
-                                }
-                            }
-                            is=true;
-                            break;
-                        }
-                    }
-                }
+        res[0]=1.0;
+        marked[0]=true;
+        for (int [] e:
+             edges) {
+            if (!map.containsKey(e[0])){
+                map.put(e[0],new ArrayList<>());
             }
-
+            if (!map.containsKey(e[1])){
+                map.put(e[1],new ArrayList<>());
+            }
+            map.get(e[0]).add(e[1]);
+            map.get(e[1]).add(e[0]);
         }
-        int parentsc=0;
-        for (int k[]:edges) { //看看目标的父亲节点的子节点个数
-            if (k[0]==parent){
-                parentsc++;
+        dfs(1,t);
+        return res[target];
+    }
+    void dfs(int cur,int t){
+        if (t<=0) return; //时间到了就退出
+        int to_count=0; //从cur 所在的位置所能到达的位置数
+        for (Integer i:
+             map.get(cur)) {
+            if (!marked[i]) to_count++;
+        }
+        if (to_count==0) return; //没有地方可以去
+        double p=res[cur]/to_count; //往后跳的选择是等概率的
+        for (Integer i: map.get(cur)) {
+            if (!marked[i]){
+                marked[i]=true;
+                //res[cur] -= p;
+                res[i]+=p;     //跳向新节点的概率，在跳向之前的概率都是0
+                dfs(i,t-1); //向下跳
+                marked[i]=false; //回溯
             }
         }
-        if (t==levelList.size() || (t>levelList.size()&&!isHaveBack)){
-            double res=1;
-            for (Integer i:
-                 levelList) {
-                res*=1.0/i;
-            }
-            return res*(1.0/parentsc);
-        }
-
-        return 0.0;
-
     }
 
     public static void main(String[] args) {
