@@ -1,4 +1,4 @@
-package leetcode.sort.quickSort;
+package leetcode.sort.quicksort;
 /*
 * 同类型题有 leetcode75
 * */
