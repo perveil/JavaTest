@@ -4,7 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c90cd8d5-5992-4244-b41b-93241a3fe741" name="Default" comment="4/24">
+    <list default="true" id="c90cd8d5-5992-4244-b41b-93241a3fe741" name="Default" comment="4/25">
       <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tree/inorderTraverse/leetcode99_恢复二叉树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/traceBack/leetcode60_第k个排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/traceBack/leetcode60_第k个排列.java" afterDir="false" />
@@ -533,14 +533,7 @@
       <workItem from="1587603335391" duration="8767000" />
       <workItem from="1587692912260" duration="4164000" />
       <workItem from="1587738296901" duration="1050000" />
-      <workItem from="1587777360546" duration="3879000" />
-    </task>
-    <task id="LOCAL-00027" summary="3/5">
-      <created>1583396943534</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1583396943534</updated>
+      <workItem from="1587777360546" duration="4156000" />
     </task>
     <task id="LOCAL-00028" summary="3/5">
       <created>1583401684591</created>
@@ -878,7 +871,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587696938211</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="4/25">
+      <created>1587782465278</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1587782465279</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -933,7 +933,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3/24" />
     <MESSAGE value="3/25" />
     <MESSAGE value="3/26" />
     <MESSAGE value="3/27" />
@@ -958,7 +957,8 @@
     <MESSAGE value="4/22" />
     <MESSAGE value="4/23" />
     <MESSAGE value="4/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="4/24" />
+    <MESSAGE value="4/25" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/25" />
   </component>
   <component name="WindowStateProjectService">
     <state x="481" y="79" key="#Notifications" timestamp="1584066635208">
@@ -989,11 +989,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="64" key="#leetcode.heap_in_JavaTest/0.0.1536.824@0.0.1536.824" timestamp="1584674142594" />
-    <state x="382" y="12" key="CommitChangelistDialog2" timestamp="1587696936305">
+    <state x="382" y="12" key="CommitChangelistDialog2" timestamp="1587782463792">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="382" y="12" key="CommitChangelistDialog2/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1587696936305" />
-    <state x="382" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587612192121" />
+    <state x="382" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587782463792" />
     <state width="1074" height="228" key="GridCell.Tab.0.bottom" timestamp="1587781934212">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1038,11 +1038,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="250" y="74" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586915822490" />
-    <state x="357" y="163" key="Vcs.Push.Dialog.v2" timestamp="1587696942242">
+    <state x="357" y="163" key="Vcs.Push.Dialog.v2" timestamp="1587782470383">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="357" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.24.1680.1010@0.0.1536.824" timestamp="1587696942242" />
-    <state x="357" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587612196532" />
+    <state x="357" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587782470383" />
     <state x="644" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587556829282">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
