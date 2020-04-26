@@ -9,7 +9,7 @@ public class leetcode239_滑动窗口最大值_一维的maxpool {
     public int[] maxSlidingWindow(int[] nums, int k) {
         int n=nums.length;
         if (n * k == 0) return new int[0];
-        if (k == 1) return nums;
+        //if (k == 1) return nums;
         int [] res=new int[n-k+1];
         /*
         * left[i]=Max(nums[block_start]->nums[i])
@@ -43,6 +43,6 @@ public class leetcode239_滑动窗口最大值_一维的maxpool {
     public static void main(String[] args) {
         new leetcode239_滑动窗口最大值_一维的maxpool().maxSlidingWindow(new int[]{
                 1,3,-1,-3,5,3,6,7
-        },3);
+        },1);
     }
 }

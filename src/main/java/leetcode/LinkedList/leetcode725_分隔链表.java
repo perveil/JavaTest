@@ -1,9 +1,15 @@
 package leetcode.LinkedList;
 
-public class leetcode725 {
+public class leetcode725_分隔链表 {
     public static void main(String[] args) {
-        new leetcode725().splitListToParts(new ListNode(-1).stringToListNode("[]"),11);
+        new leetcode725_分隔链表().splitListToParts(new ListNode(-1).stringToListNode("[]"),11);
     }
+    /*
+    * params：
+    *       root：目标链表
+    *       k:链表分成k份
+    *
+    * */
     public ListNode[] splitListToParts(ListNode root, int k) {
         if(root==null) return null;
         ListNode cur=root;
@@ -13,17 +19,17 @@ public class leetcode725 {
             cur=cur.next;
         }
         ListNode[] result=new ListNode[k];
+        //  l=n*(i+1)+m*(i)   n+m=k
+        int p=len%k;  //余数    n
+        int q=len/k;  //商      i
 
-        int p=len%k;  //余数  大于等于0
-        int q=len/k;  //商
-
-        ListNode curN=root;
+        ListNode curN=root; //工作指针
         ListNode next=curN;
 
         for(int i=0;i<p;i++){
             int j=0;
-            while(j++<q){  //取结尾
-                next=next.next;
+            while(j++<q){  //取结尾 长度为q+1
+                 next=next.next;
             }
             result[i]=curN;
             ListNode end=next;
@@ -32,7 +38,7 @@ public class leetcode725 {
         }
         for(int i=p;i<k;i++){
             int j=0;
-            while(j++<q-1){
+            while(j++<q-1){ //取结尾，长度为 q
                 next=next.next;
             }
             if (curN==null){
